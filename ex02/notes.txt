@@ -1,0 +1,7 @@
+Proje sınırları içinde kalarak yapmanız gerekenler:
+
+Verilen örnek main() fonksiyonunun çalıştığından emin olun.
+Farklı veri tipleriyle (int, string gibi) testler yapın.
+Boş stack, tek elemanlı stack ve çok elemanlı stack durumlarını test edin.
+Copy constructor ve assignment operator'ün doğru çalıştığını kontrol edin.
+begin() ve end() fonksiyonlarının hem const hem de non-const versiyonlarının düzgün çalıştığını doğrulayın.
